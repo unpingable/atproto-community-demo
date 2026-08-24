@@ -306,6 +306,14 @@ a:hover {
   color: var(--ink);
 }
 
+.synthetic-note {
+  margin: 16px 0 0;
+  border-left: 3px solid var(--sun);
+  padding-left: 13px;
+  color: var(--muted);
+  font-size: 14px;
+}
+
 .state-pill {
   display: inline-flex;
   align-items: center;

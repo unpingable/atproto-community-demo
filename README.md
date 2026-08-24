@@ -14,6 +14,11 @@ Nothing here came from a live account or Space. The site contains no OAuth
 token, Space credential, private source data, moderator capability, analytics,
 cookies, or browser script.
 
+The showcase is designed for clarity, but has not yet been user-tested. Its
+admission and moderation-authorization records are synthetic; a real community
+would bind each inclusion to its community actor and one exact occurrence
+authorization.
+
 ## What is here
 
 The root is the human-facing synthetic showcase. It includes:
@@ -30,13 +35,13 @@ under [`lab/`](https://unpingable.github.io/atproto-community-demo/lab/).
 ## Custody and verification
 
 Showcase bundle ID:
-`sha256:210d22fda8f5fc918fca8dec5c7b391fd3e2ef97dcfd2fa8a0881a220f899a21`
+`sha256:d34584250944388fc71c3d34ebd5dff474a81509976e46ae8568532b81518267`
 
 Embedded boundary bundle ID:
 `sha256:9bc2a8935f1f239fbcd311287fcf3602fa4a7f1ebfd9bcada0d413dc26455b5e`
 
 Generator custody commit:
-`f974f9ced571fd8210051f3f795c20ba4be93050`
+`3fdbb8ff932fd8622fb1e38c389f285cf0cb7a2e`
 
 Verify every generated payload with:
 
@@ -51,7 +56,7 @@ the limitation is stated rather than papered over.
 
 The manifest records the exact claims and non-claims. Publication does not
 prove reader authorization, membership, moderator or governance authority,
-source truth, repository currentness, human usability, or production
+source truth, repository currentness, tested usability, or production
 readiness.
 
 ## License
