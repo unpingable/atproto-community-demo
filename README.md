@@ -35,7 +35,7 @@ under [`lab/`](https://unpingable.github.io/atproto-community-demo/lab/).
 ## Custody and verification
 
 Showcase bundle ID:
-`sha256:d34584250944388fc71c3d34ebd5dff474a81509976e46ae8568532b81518267`
+`sha256:b8c1849636d9228450a2b6e7627bbfcee4b909e671d97922c027685f5608cb7d`
 
 Embedded boundary bundle ID:
 `sha256:9bc2a8935f1f239fbcd311287fcf3602fa4a7f1ebfd9bcada0d413dc26455b5e`
